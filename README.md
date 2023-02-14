@@ -14,11 +14,11 @@ I'm a software engineer with a passion for creating beautiful and functional web
 I am also the creator of <a href="https://adamboyddesigns.etsy.com/" target="_blank">AdamBoydDesigns</a> on Etsy where I create and sell handcrafted silver and copper jewelry. I have been selling my jewelry on Etsy since mid 2019. I have experience with Etsy's API, as well as with the Etsy community.
 </p>
 <p>
-I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on <a href="https://www.linkedin.com/in/adamrboyd/" target="_blank">LinkedIn</a>.
+I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on <a href="https://www.linkedin.com/in/adamrichardboyd/" target="_blank">LinkedIn</a>.
 </p>
 <br />
 
-<a href="https://www.linkedin.com/in/adamrboyd/" target="_blank" >
+<a href="https://www.linkedin.com/in/adamrichardboyd/" target="_blank" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='50' width='50' />
 </a>
 </div>
