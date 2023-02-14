@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 ## About Me
 
 <div style="max-width: 800px;">
+<p>
 I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from [California State University, Easy Bay](https://www.csueastbay.edu/) with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now.
-
-<br />
-
+</p>
+<p>
 I am also the creator of [AdamBoydDesigns](https://www.adamboyddesigns.com/) (Coming Soon), a website that I created to showcase my handcrafted jewelry and other creative projects.
-
-<br />
-
+</p>
+<p>
 I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adamrboyd/).
-
+</p>
 <br />
 
 <a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
