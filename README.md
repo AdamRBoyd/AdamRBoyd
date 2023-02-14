@@ -33,11 +33,8 @@ I'm currently looking for a full-time software engineering position. If you're i
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=EtsyGrabber&show_icons=true&theme=dark" alt='EtsyGrabber' />
 </div>
 
-<br />
-
 -----------------------
 
-<br />
 <div>
 
 ## My Skillset:
@@ -113,20 +110,14 @@ I'm currently looking for a full-time software engineering position. If you're i
   
 </td></tr></table>
 
-<br />
-
 -----------------------
-<br />
-  
+
 ## Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRBoyd&layout=compact&show_icons=true&theme=dark)](https://github.com/AdamRBoyd/github-readme-stats)
 
-<br />
-
 -----------------------
 
-<br /> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AdamRBoyd&&style=flat-square" align="center" />
 </div>  
