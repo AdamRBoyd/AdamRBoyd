@@ -8,17 +8,17 @@
 
 <div style="max-width: 750px;">
 <p>
-I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now. I have created websites for myself (<a href="https://github.com/AdamRBoyd/AdamBoydDesigns_Website">currently in progress</a>), as well as for others. I have experience with HTML, CSS, Javascript, React, Node, and more.
+I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/" target="_blank">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now. I have created websites for myself (<a href="https://github.com/AdamRBoyd/AdamBoydDesigns_Website" target="_blank">currently in progress</a>), as well as for others. I have experience with HTML, CSS, Javascript, React, Node, and more.
 </p>
 <p>
-I am also the creator of <a href="https://adamboyddesigns.etsy.com/">AdamBoydDesigns</a> on Etsy where I create and sell handcrafted silver and copper jewelry. I have been selling my jewelry on Etsy since mid 2019. I have experience with Etsy's API, as well as with the Etsy community.
+I am also the creator of <a href="https://adamboyddesigns.etsy.com/" target="_blank">AdamBoydDesigns</a> on Etsy where I create and sell handcrafted silver and copper jewelry. I have been selling my jewelry on Etsy since mid 2019. I have experience with Etsy's API, as well as with the Etsy community.
 </p>
 <p>
-I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on <a href="https://www.linkedin.com/in/adamrboyd/">LinkedIn</a>.
+I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on <a href="https://www.linkedin.com/in/adamrboyd/" target="_blank">LinkedIn</a>.
 </p>
 <br />
 
-<a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
+<a href="https://www.linkedin.com/in/adamrboyd/" target="_blank" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='50' width='50' />
 </a>
 </div>
