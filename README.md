@@ -76,17 +76,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Adam Boyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRBoyd&show_icons=true&theme=dark)](https://github.com/AdamRBoyd/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRBoyd&layout=compact&show_icons=true&theme=dark)](https://github.com/AdamRBoyd/github-readme-stats)
 
 <br />
 
-## My Projects
+## My Current Projects
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=adamrboyd.github.io&show_icons=true&theme=dark" alt='adamrboyd.github.io' />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=react-portfolio&show_icons=true&theme=dark" alt='react-portfolio' />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=react-portfolio&show_icons=true&theme=dark" alt='react-portfolio' />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=react-portfolio&show_icons=true&theme=dark" alt='react-portfolio' />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=EtsyGrabber&show_icons=true&theme=dark" alt='EtsyGrabber' />
 </div>
