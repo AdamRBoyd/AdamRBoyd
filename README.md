@@ -17,17 +17,22 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in graphic design and have been working in the software industry for about a year now.
+<div style="max-width: 800px;">
+I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from [California State University, Easy Bay](https://www.csueastbay.edu/) with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now.
 
-I recently graduated from [California State University, Easy Bay](https://www.csueastbay.edu/) with a Bachelor of Science in Computer Science.
+<br />
 
-I'm also the creator of [AdamBoydDesigns](https://www.adamboyddesigns.com/) (Coming Soon), a website that I created to showcase my handcrafted jewelry and other creative projects.
+I am also the creator of [AdamBoydDesigns](https://www.adamboyddesigns.com/) (Coming Soon), a website that I created to showcase my handcrafted jewelry and other creative projects.
+
+<br />
 
 I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adamrboyd/).
 
-<a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='25' width='25' />
+<br />
 
+<a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='50' width='50' />
+</div>
 <br />
 
 <div>
