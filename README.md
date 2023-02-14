@@ -6,7 +6,7 @@
 
 ## About Me
 
-<div style="max-width: 750px;">
+<div style="max-width: 700px;">
 <p>
 I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/" target="_blank">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now. I have created websites for myself (<a href="https://github.com/AdamRBoyd/AdamBoydDesigns_Website" target="_blank">currently in progress</a>), as well as for others. I have experience with HTML, CSS, Javascript, React, Node, and more.
 </p>
