@@ -15,6 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
+
+I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in graphic design and have been working in the software industry for about a year now.
+
+I recently graduated from [California State University, Easy Bay](https://www.csueastbay.edu/) with a Bachelor of Science in Computer Science.
+
+I'm also the creator of [AdamBoydDesigns](https://www.adamboyddesigns.com/) (Coming Soon), a website that I created to showcase my handcrafted jewelry and other creative projects.
+
+I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adamrboyd/).
+
+<a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='25' width='25' />
+
+<br />
+
+<div>
+
+## My Current Projects
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=EtsyGrabber&show_icons=true&theme=dark" alt='EtsyGrabber' />
+</div>
+
+<br />
+
 <div>
 
 ## My Skillset:
@@ -79,10 +104,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRBoyd&layout=compact&show_icons=true&theme=dark)](https://github.com/AdamRBoyd/github-readme-stats)
 
 <br />
-
-## My Current Projects
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=EtsyGrabber&show_icons=true&theme=dark" alt='EtsyGrabber' />
-</div>
