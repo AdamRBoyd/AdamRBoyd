@@ -1,37 +1,28 @@
-# Hi there 👋
+# Hello there 👋
 
 <!--
 **AdamRBoyd/AdamRBoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## About Me
 
-<div style="max-width: 800px;">
+<div style="max-width: 750px;">
 <p>
-I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from [California State University, Easy Bay](https://www.csueastbay.edu/) with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now.
+I'm a software engineer with a passion for creating beautiful and functional web applications. I have a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have been working in the software industry for about a year now. I have created websites for myself (<a href="https://github.com/AdamRBoyd/AdamBoydDesigns_Website">currently in progress</a>), as well as for others. I have experience with HTML, CSS, Javascript, React, Node, and more.
 </p>
 <p>
-I am also the creator of [AdamBoydDesigns](https://www.adamboyddesigns.com/) (Coming Soon), a website that I created to showcase my handcrafted jewelry and other creative projects.
+I am also the creator of <a href="https://adamboyddesigns.etsy.com/">AdamBoydDesigns</a> on Etsy where I create and sell handcrafted silver and copper jewelry. I have been selling my jewelry on Etsy since mid 2019. I have experience with Etsy's API, as well as with the Etsy community.
 </p>
 <p>
-I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adamrboyd/).
+I'm currently looking for a full-time software engineering position. If you're interested in hiring me, please feel free to reach out to me on <a href="https://www.linkedin.com/in/adamrboyd/">LinkedIn</a>.
 </p>
 <br />
 
 <a href="https://www.linkedin.com/in/adamrboyd/" style="text-justify: center;" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='LinkedIn' height='50' width='50' />
+</a>
 </div>
+
 <br />
 
 <div>
