@@ -37,7 +37,7 @@ I'm currently looking for a full-time software engineering position. If you're i
 
 <div>
 
-## My Skillset:
+## My Skillset
 
 <table style="border: none" ><tr><td valign="top" width="25%">
   
