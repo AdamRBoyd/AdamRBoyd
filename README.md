@@ -111,6 +111,16 @@ I'm currently looking for a full-time software engineering position. If you're i
 </td></tr></table>
 
 -----------------------
+  
+<div>
+
+## My Miscellaneous School Projects
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=School_Programming_Assignments&show_icons=true&theme=dark" alt='Old School programming Assignments' />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=Website_Development_Class&show_icons=true&theme=dark" alt='Webstie Development Class Work' />
+</div>
+  
+-----------------------
 
 ## Language Stats
 
