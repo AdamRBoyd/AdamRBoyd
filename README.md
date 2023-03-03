@@ -29,8 +29,12 @@ I'm currently looking for a full-time software engineering position. If you're i
 
 ## My Current Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' />
+<a href="https://github.com/AdamRBoyd/AdamBoydDesigns_Website" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' /></a>
+
+<a href="https://github.com/AdamRBoyd/EtsyGrabber" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=EtsyGrabber&show_icons=true&theme=dark" alt='EtsyGrabber' />
+</a>
 </div>
 
 -----------------------
@@ -116,8 +120,10 @@ I'm currently looking for a full-time software engineering position. If you're i
 
 ## My Miscellaneous School Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=School_Programming_Assignments&show_icons=true&theme=dark" alt='Old School programming Assignments' />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=Website_Development_Class&show_icons=true&theme=dark" alt='Webstie Development Class Work' />
+<a href="https://github.com/AdamRBoyd/School_Programming_Assignments" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=School_Programming_Assignments&show_icons=true&theme=dark" alt='Old School programming Assignments' /></a>
+<a href="https://github.com/AdamRBoyd/Website_Development_Class" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=Website_Development_Class&show_icons=true&theme=dark" alt='Webstie Development Class Work' /></a>
 </div>
   
 -----------------------
