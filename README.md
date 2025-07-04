@@ -8,7 +8,7 @@
 
 <div style="max-width: 700px;">
 <p>
-I'm a front end engineer with a passion for creating beautiful and functional web applications. I have a strong foundation in JavaScript, React, HTML, and CSS, and a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/" target="_blank">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have worked in the software industry since 2021, primarily as a freelance designer. I have created websites for myself (<a href="anvilandembermetalworks.com" target="_blank"> Anvil and Ember Metalworks </a>), as well as for others.
+I'm a front end engineer with a passion for creating beautiful and functional web applications. I have a strong foundation in JavaScript, React, HTML, and CSS, and a background in computers, fabrication and graphic design. I recently graduated from <a href="https://www.csueastbay.edu/" target="_blank">California State University, Easy Bay</a> with a Bachelor of Science in Computer Science and have worked in the software industry since 2021, primarily as a freelance designer. I have created websites for myself (<a href="http://anvilandembermetalworks.com" target="_blank"> Anvil and Ember Metalworks </a>), as well as for others.
 </p>
 <p>
 I am also the creator of <a href="https://anvilandembermetal.etsy.com/" target="_blank">Anvil and Ember Metalworks</a> on Etsy where I create and sell handcrafted silver and copper jewelry. I have been selling my jewelry on Etsy since mid 2019. I have experience with Etsy's API, as well as with the Etsy community.
