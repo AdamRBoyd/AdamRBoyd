@@ -16,10 +16,10 @@ I earned my B.S. in Computer Science from California State University, East Bay,
 In addition to running my own e-commerce site, I’ve been active on Etsy since 2019 and have experience working with the Etsy API and its seller ecosystem.
 </p>
 <p>
-🚀 Tech Stack: JavaScript (ES6+), React, HTML5, CSS3, Git
-🛍️ Live Project: <a href="http://anvilandembermetalworks.com" target="_blank">anvilandembermetalworks.com</a>
-📬 Looking for: Full-time roles in front-end or software engineering
-🔗 Let’s connect: <a href="https://linkedin.com/in/adamrichardboyd/" target="_blank">LinkedIn</a>
+🚀 Tech Stack: JavaScript (ES6+), React, HTML5, CSS3, Git <br>
+🛍️ Live Project: <a href="http://anvilandembermetalworks.com" target="_blank">anvilandembermetalworks.com</a> <br>
+📬 Looking for: Full-time roles in front-end or software engineering <br>
+🔗 Let’s connect: <a href="https://linkedin.com/in/adamrichardboyd/" target="_blank">LinkedIn</a> <br>
 </p>
 <br />
 
