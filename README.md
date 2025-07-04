@@ -19,7 +19,7 @@ In addition to running my own e-commerce site, I’ve been active on Etsy since 
 🚀 Tech Stack: JavaScript (ES6+), React, HTML5, CSS3, Git <br>
 🛍️ Live Project: <a href="http://anvilandembermetalworks.com" target="_blank">anvilandembermetalworks.com</a> <br>
 📬 Looking for: Full-time roles in front-end or software engineering <br>
-🔗 Let’s connect: <a href="https://linkedin.com/in/adamrichardboyd/" target="_blank">LinkedIn</a> <br>
+
 <a href="https://linkedin.com/in/adamrichardboyd/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
