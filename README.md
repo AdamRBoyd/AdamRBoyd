@@ -29,7 +29,7 @@ I'm currently looking for a full-time software engineering position. If you're i
 
 ## My Current Projects
 
-<a href="[https://github.com/AdamRBoyd/AdamBoydDesigns_Website](https://github.com/AdamRBoyd/AnvilandEmber-Website)" target="_blank">
+<a href="https://github.com/AdamRBoyd/AnvilandEmber-Website" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' /></a>
 </div>
 
