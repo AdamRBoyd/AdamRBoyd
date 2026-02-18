@@ -28,13 +28,6 @@ In addition to running my own e-commerce site, I’ve been active on Etsy since 
 
 <br />
 
-<div>
-
-## My Current Projects
-
-<a href="https://github.com/AdamRBoyd/AnvilandEmber-Website" target="_blank">Anvil and Ember Metalworks</a>
-</div>
-
 -----------------------
 
 <div>
@@ -112,16 +105,6 @@ In addition to running my own e-commerce site, I’ve been active on Etsy since 
   
 </td></tr></table>
 
------------------------
-  
-<div>
-
-## My Miscellaneous School Projects
-
-<a href="https://github.com/AdamRBoyd/School_Programming_Assignments" target="_blank">Old School programming Assignments</a>
-<a href="https://github.com/AdamRBoyd/Website_Development_Class" target="_blank">Webstie Development Class Work</a>
-</div>
-  
 -----------------------
 
 <div align="center">
