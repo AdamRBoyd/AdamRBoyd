@@ -32,8 +32,7 @@ In addition to running my own e-commerce site, I’ve been active on Etsy since 
 
 ## My Current Projects
 
-<a href="https://github.com/AdamRBoyd/AnvilandEmber-Website" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=AdamBoydDesigns_Website&show_icons=true&theme=dark" alt='AdamBoydDesigns Website' /></a>
+<a href="https://github.com/AdamRBoyd/AnvilandEmber-Website" target="_blank">Anvil and Ember Metalworks</a>
 </div>
 
 -----------------------
@@ -119,18 +118,10 @@ In addition to running my own e-commerce site, I’ve been active on Etsy since 
 
 ## My Miscellaneous School Projects
 
-<a href="https://github.com/AdamRBoyd/School_Programming_Assignments" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=School_Programming_Assignments&show_icons=true&theme=dark" alt='Old School programming Assignments' /></a>
-<a href="https://github.com/AdamRBoyd/Website_Development_Class" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamRBoyd&repo=Website_Development_Class&show_icons=true&theme=dark" alt='Webstie Development Class Work' /></a>
+<a href="https://github.com/AdamRBoyd/School_Programming_Assignments" target="_blank">Old School programming Assignments</a>
+<a href="https://github.com/AdamRBoyd/Website_Development_Class" target="_blank">Webstie Development Class Work</a>
 </div>
   
------------------------
-
-## Language Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRBoyd&layout=compact&show_icons=true&theme=dark)](https://github.com/AdamRBoyd/github-readme-stats)
-
 -----------------------
 
 <div align="center">
